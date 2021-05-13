@@ -1,0 +1,25 @@
+img {
+    width: 200px;
+}
+
+body {
+    background-color: #0047AB;
+    font-family: 'Overpass', sans-serif;
+}
+
+a {
+    color: #DFDFDF;
+}
+
+.important {
+    color: #DFDFDF;
+}
+
+.other {
+    background-color: #DFDFDF;
+}
+
+.solo {
+    background-color: #000000;
+    color: #DFDFDF;
+}
